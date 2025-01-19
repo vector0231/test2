@@ -6,3 +6,5 @@ let d=7;
 console.log("hello friend");
 
 console.log("hey bro");
+
+console.log("ok bye");
