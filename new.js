@@ -5,5 +5,4 @@ let d=7;
 
 console.log("hello friend");
 
-
-console.log("hello");
+console.log("hey bro");
